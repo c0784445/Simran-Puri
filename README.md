@@ -1,2 +1,4 @@
 # Simran-Puri
-My first repository
+Name- SIMRAN PURI
+Country- INDIA
+State- PUNJAB
